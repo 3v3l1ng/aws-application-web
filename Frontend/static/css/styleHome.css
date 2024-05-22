@@ -1,0 +1,39 @@
+     
+.footer{
+    
+  background-color: black;
+  position: absolute;
+}
+.container-card{
+  padding-top: 2%;
+}
+
+.card-footer{
+  background-color:#212121;
+}
+.nav-color{
+background-color:#212121;
+}
+
+.nav-fuente{
+  color: #FFFFFF;
+}
+.fondo-container{
+background: linear-gradient(#EEEEEE, #00796B);
+  
+}
+
+.fondo-formulario{
+  
+background-color: #EEEEEE;
+
+}
+
+.imagen-registro{
+  
+   background-repeat: no-repeat;
+    height:50vh;
+    text-align: center;
+    
+    
+}
